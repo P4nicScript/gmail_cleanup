@@ -1,0 +1,6 @@
+{
+    "require": {
+        "ddeboer/imap": "^1.12",
+        "symfony/dotenv": "^5.3"
+    }
+}
